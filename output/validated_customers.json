@@ -1,0 +1,23 @@
+[
+    {
+        "cid": "C001",
+        "name": "Rahul",
+        "email": "rahul@gmail.com",
+        "pin": "285001",
+        "spend": 1500.0
+    },
+    {
+        "cid": "C002",
+        "name": "Amit",
+        "email": "amit@gmail.com",
+        "pin": "285002",
+        "spend": 2500.0
+    },
+    {
+        "cid": "C003",
+        "name": "Priya",
+        "email": "priya@gmail.com",
+        "pin": "285003",
+        "spend": 3500.0
+    }
+]
